@@ -1,7 +1,7 @@
 <h3 align="center">Hi</h3>
 <h1 align="center">I'm Divyanshu Verma</h1>
 
-<h3 align="center">Android and Java SE Developer</h3>
+<h3 align="center">Java, React and Android Developer</h3>
  <p align="center">
   <img src="bgcover.png" width="700" height="500">
  </p> 
