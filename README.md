@@ -1,14 +1,14 @@
 <h3 align="center">Hi</h3>
 <h1 align="center">I'm Divyanshu Verma</h1>
 
-<h3 align="center">Java, React and Android Developer</h3>
+<h3 align="center">.NET Developer</h3>
  <p align="center">
   <img src="bgcover.png" width="700" height="500">
  </p> 
 
 <p align="center">
-I'm a Android Developer and very confident Java SE developer. I love to work on various implementations using Java. I am also expert in C and CPP language. I am currently studying in 3rd year of college and learning more new stuffs to be a better programmer.<br>I am still learning that's why my most repositories are private.I will make it public once my projects are finished.
-<br>GOOD THINGS TAKES TIME 😉
+I am a <b>.NET Developer</b>, an Android Developer, and very confident in Java SE related stuff. I love to work on various implementations using different tech stacks. I am also an expert in C and CPP language. I am currently working as a software engineer and learning more new stuff to be a better programmer.<br/>
+Also, I am exploring various extensions of the .NET framework like .NET Core, ASP.NET & others. I am also very much confident in frontend technologies like ReactJS & Angular.
 </p>
 
 
